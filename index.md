@@ -14,3 +14,7 @@ for (Item item : PlayerStarterInventory) {
 - [x] List syntax is required
 - [x] This item is complete
 - [ ] This item is not complete
+
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
