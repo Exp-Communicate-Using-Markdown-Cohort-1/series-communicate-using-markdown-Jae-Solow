@@ -10,3 +10,7 @@ for (Item item : PlayerStarterInventory) {
   playerInventory.AddItem(PlayerStarterInventory[item])
 }
 ```
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
